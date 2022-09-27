@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-thwxxp/static/css/main.464294e1.chunk.css",
+    "main.js": "https://.github.io/csb-thwxxp/static/js/main.17d9d637.chunk.js",
+    "main.js.map": "https://.github.io/csb-thwxxp/static/js/main.17d9d637.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-thwxxp/static/js/runtime-main.92235227.js",
+    "runtime-main.js.map": "https://.github.io/csb-thwxxp/static/js/runtime-main.92235227.js.map",
+    "static/js/2.321721b6.chunk.js": "https://.github.io/csb-thwxxp/static/js/2.321721b6.chunk.js",
+    "static/js/2.321721b6.chunk.js.map": "https://.github.io/csb-thwxxp/static/js/2.321721b6.chunk.js.map",
+    "index.html": "https://.github.io/csb-thwxxp/index.html",
+    "static/css/main.464294e1.chunk.css.map": "https://.github.io/csb-thwxxp/static/css/main.464294e1.chunk.css.map",
+    "static/js/2.321721b6.chunk.js.LICENSE.txt": "https://.github.io/csb-thwxxp/static/js/2.321721b6.chunk.js.LICENSE.txt",
+    "static/media/power48.1d90e040.svg": "https://.github.io/csb-thwxxp/static/media/power48.1d90e040.svg",
+    "static/media/settings48.c23033fa.svg": "https://.github.io/csb-thwxxp/static/media/settings48.c23033fa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92235227.js",
+    "static/js/2.321721b6.chunk.js",
+    "static/css/main.464294e1.chunk.css",
+    "static/js/main.17d9d637.chunk.js"
+  ]
+}
